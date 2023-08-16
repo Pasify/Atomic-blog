@@ -28,7 +28,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone this repository:
 
    ```
-   git clone [repository-url]
+   git clone https://github.com/Pasify/Atomic-blog.git
    ```
 
 2. Navigate to the project directory:
